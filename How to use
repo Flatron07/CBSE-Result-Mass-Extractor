@@ -1,0 +1,14 @@
+Step 1: Open Command Prompt and use pip install selenium
+and download chromedriver 148.0.7778.0(ill provide the link in the comment section) and paste the .exe file at C:\chromedriver
+Step 2: Make a separate folder
+Step 3: put the above code in a python file(i used bot.py)
+Step 4: Edit the config area, enter the first roll number in your school, centre code, school no. etc.
+Step 5: Make a text file in the same Directory and name it requirements.txt and paste the information given as REQUIREMENT in MAIN
+ 
+Step 6: Open command prompt and run >>>cd [Directory Path] then type pip install -r requirements.txt
+Step 7: Open the python file and run it
+ 
+ 
+ 
+And now it will fetch the result of every student in your school automatically
+It is time consuming, you will have to keep your pc turned on as it tries 676 different combination for every single roll number.
